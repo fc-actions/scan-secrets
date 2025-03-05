@@ -1,8 +1,6 @@
-# scan-secrets
+# FireClover Secrets Scanner
 
-## :octocat: TruffleHog Github Action
-
-### General Usage
+## General Usage
 
 ```
 on:
