@@ -24,9 +24,6 @@ inputs:
     default: 'latest'
     description: Scan with this trufflehog cli version.
     required: false
-branding:
-  icon: "shield"
-  color: "green"
 
 runs:
   using: "composite"
